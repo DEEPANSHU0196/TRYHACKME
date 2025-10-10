@@ -1,0 +1,58 @@
+Task 1 
+Read the above.
+ANS - No answer needed
+
+Task 2
+What is the name of the Intel Gathering Tool that is a web-based interface to the common tools and resources for open-source intelligence?
+ANS - OSINT Framework
+
+What is the definition for the email gathering process during the stage of reconnaissance?
+ANS - email harvesting
+
+Task 3 
+What is the term for automated scripts embedded in Microsoft Office documents that can be used to perform tasks or exploited by attackers for malicious purposes?
+ANS - Macro
+
+Task 4 
+What do you call an attack targeting a specific group by infecting their frequently visited website?
+ANS - Watering hole attack
+
+Task 5 
+What is the term for a cyber attack that exploits a software vulnerability that is unknown by software vendors?
+ANS - Zero-day
+
+Task 6 
+What technique is used to modify file time attributes to hide new or changes to existing files?
+ANS - Timestomping
+
+What malicious script can be planted by an attacker on the web server to maintain access to the compromised system and enables the web server to be accessed remotely?
+ANS - Web shell
+
+Task 7 
+What is the C2 communication where the victim makes regular DNS requests to a DNS server and domain which belong to an attacker. 
+ANS - DNS Tunneling
+
+Task 8 
+What technology is included in Microsoft Windows that can create backup copies or snapshots of files or volumes on the computer, even when they are in use? 
+ANS - Shadow Copy
+
+Task 9 
+What is the flag after you complete the static site?
+ANS - THM{7HR347_1N73L_12_4w35om3}
+
+Task 10 
+Read the above.
+ANS - No answer needed
+
+
+
+
+
+
+
+
+
+
+
+
+
