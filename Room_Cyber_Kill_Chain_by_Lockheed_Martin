@@ -1,0 +1,78 @@
+!!Explore the Cyber Kill Chain by Lockheed Martin.
+
+Task 1 
+How many phases comprise the Cyber Kill Chain?
+ANS - 7
+
+Task 2 
+What is the term for using search engines to reveal sensitive information and confidential files?
+ANS - Google Dorking
+
+What type of reconnaissance is it where the attacker checks the social media pages?
+ANS - passive reconnaissance
+
+Task 3 
+What technique is mentioned to evade detection by making it challenging to analyse the malicious code?
+ANS - Obfuscation
+
+What built-in feature makes creating a malicious MS Office document possible?
+ANS - Macro
+
+Task 4 
+What method involves showing advertisements on legitimate websites to redirect users to malicious pages?
+ANS - Malvertising
+
+What phishing attack sends text messages with malicious links or instructions to download malware?
+ANS - Smishing
+
+Task 5  
+What type of exploit is used before the vendor becomes aware of a vulnerability?
+ANS - Zero-day exploit
+
+What technology is mentioned to prevent an attacker from gaining access even with valid login credentials?
+ANS - MFA
+
+Task 6 
+What tactic allows attackers to execute operating system commands on a target via a web browser interface?
+ANS - web shell
+
+What technique is mentioned to prevent the execution of unauthorised or malicious software by only allowing approved applications to run?
+ANS - allowlisting
+
+Task 7 
+What is the name of the tactic where data is hidden within DNS queries?
+ANS - DNS tunnelling
+
+What protocol would the attacker use to smuggle his data as encrypted web traffic?
+ANS - HTTPS
+
+Task 8 
+What is the term for stealing sensitive files from a target network?
+ANS - Data Exfiltration
+
+What principle limits who can access sensitive systems and data to minimise damage caused by an attacker?
+ANS - principle of least privilege
+
+What type of attack involves encrypting files and demanding payment in exchange for the decryption key?
+ANS - Ransomware
+
+Task 9 
+What is the flag after you complete the static site?
+ANS - THM{CKC_NJHERDX327}
+
+Congratulations on finishing this room. It is time to explore the next room.
+ANS - No answer needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
