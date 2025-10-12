@@ -1,0 +1,41 @@
+Task 1 - 4
+ANS - No answer needed 
+
+Task 5 
+Read the above and use MITRE ATT&CK Navigator to answer the questions below using a Carbanak layer.
+ANS - No answer needed
+
+How many Command and Control techniques are employed by Carbanak?
+ANS - 2
+
+What signed binary did Carbanak use for defense evasion?
+ANS - Rundll32
+
+What Initial Access technique is employed by Carbanak? 
+ANS - Valid Accounts
+
+Task 6 
+Read the above and continue to the next task.
+ANS - No answer needed
+
+Task 7
+Once the chain is complete and you have received the flag, submit it below.
+ANS - THM{7HR347_1N73L_12 __4w35om}
+
+Answer questions below relating to needed engagement resources.
+
+What web shell is APT 41 known to use? 
+ANS - ASPXSpy
+
+What LOLBAS (Living Off The Land Binaries and Scripts) tool does APT 41 use to aid in file transfers? 
+ANS - certutil
+
+What tool does APT 41 use to mine and monitor SMS traffic? 
+ANS - MESSAGETAP
+
+Task 8 
+Read the above and continue learning!
+ANS - No answer needed
+
+
+
