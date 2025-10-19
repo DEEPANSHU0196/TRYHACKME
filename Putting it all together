@@ -1,0 +1,30 @@
+Task 1 
+I've read this...
+ANS - No answer needed
+
+Task 2
+What can be used to host static files and speed up a clients visit to a website?
+ANS - CDN
+
+What does a load balancer perform to make sure a host is still alive?
+ANS - health check
+
+What can be used to help against the hacking of a website?
+ANS - WAF
+
+Task 3 
+What does web server software use to host multiple sites?
+ANS - Virtual Hosts
+
+What is the name for the type of content that can change?
+ANS - Dynamic
+
+Does the client see the backend code? Yay/Nay
+ANS - Nay
+
+Task 4
+Flag
+ANS - THM{YOU_GOT_THE_ORDER}
+
+
+
