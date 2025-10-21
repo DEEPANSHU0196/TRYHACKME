@@ -1,0 +1,85 @@
+Task 1
+I'm ready to learn about encryption
+ANS - No answer needed
+
+Task 2
+I agree not to complain too much about how theory heavy this room is.
+ANS - No answer needed
+
+Are SSH keys protected with a passphrase or a password?
+ANS - passphrase
+
+Task 3
+What does SSH stand for?
+ANS - Secure Shell
+
+How do webservers prove their identity?
+ANS - certificates
+
+What is the main set of standards you need to comply with if you store or process payment card details?
+ANS - PCI-DSS
+
+Task 4
+What's 30 % 5?
+ANS - 0
+
+What's 25 % 7
+ANS - 4
+
+What's 118613842 % 9091
+ANS - 3565
+
+Task 5
+Should you trust DES? Yea/Nay
+ANS - Nay
+
+What was the result of the attempt to make DES more secure so that it could be used for longer?
+ANS - Triple DES
+
+Is it ok to share your public key? Yea/Nay
+ANS - Yea
+
+Task 6
+RSA - Rivest Shamir Adleman
+p = 4391, q = 6659. What is n?
+ANS - 29239669
+
+I understand enough about RSA to move on, and I know where to look to learn more if I want to.
+ANS - No answer needed
+
+Task 7
+I understand how keys can be established using Public Key (asymmetric) cryptography.
+ANS - No answer needed
+
+Task 8
+What can you use to verify that a file has not been modified and is the authentic file as the author intended?
+ANS - Digital Signature
+
+Task 9
+I recommend giving this a go yourself. Deploy a VM, like Linux Fundamentals 2 and try to add an SSH key and log in with the private key.
+ANS - No answer needed
+
+Download the SSH Private Key attached to this room.
+ANS - No answer needed
+
+What algorithm does the key use?
+ANS - RSA
+
+Crack the password with John The Ripper and rockyou, what's the passphrase for the key?
+ANS - delicious
+
+Task 10
+I understand how Diffie Hellman Key Exchange works at a basic level
+ANS - No answer needed
+
+Task 11
+Time to try some GPG. Download the archive attached and extract it somewhere sensible.
+ANS - No answer needed
+
+You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?
+ANS - Pineapple
+
+Task 12
+I understand that quantum computers affect the future of encryption. I know where to look if I want to learn more.
+ANS - No answer needed
+
