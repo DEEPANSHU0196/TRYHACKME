@@ -1,0 +1,61 @@
+Task 1
+Let's get started!
+ANS - No answer needed
+
+Task 2
+What does AV mean?
+ANS - Antivirus
+
+Which PC Antivirus vendor implemented the first AV software on the market?
+ANS - McAfee
+
+Antivirus software is a _____-based security solution.
+ANS - Host
+
+Task 3 
+Which AV feature analyzes malware in a safe and isolated environment?
+ANS - Emulator
+
+An _______ feature is a process of restoring or decrypting the compressed executable files to the original. 
+ANS - unpacker
+
+Read the above to proceed to the next task, where we discuss the AV detection techniques.
+ANS - No answer needed
+
+Task 4 
+Once you've deployed the VM, it will take a few minutes to boot up. Then, progress to the next task!
+ANS - No answer needed
+
+Task 5 
+What is the sigtool tool output to generate an MD5 of the AV-Check.exe binary?
+ANS - f4a974b0cf25dca7fbce8701b7ab3a88:6144:AV-Check.exe
+
+Use the strings tool to list all human-readable strings of the AV-Check binary. What is the flag?
+ANS - THM{Y0uC4nC-5tr16s}
+
+Task 6 
+Which detection method is used to analyze malicious software inside virtual environments?
+ANS - Dynamic Detection
+
+Task 7 
+For the C# AV fingerprint, try to rewrite the code in a different language, such as Python, and check whether VirusTotal flag it as malicious.
+ANS - No answer needed
+
+Read the Above!
+ANS - No answer needed
+
+Task 8 
+Congrats on completing the room, and keep learning!
+ANS - No answer needed
+
+
+
+
+
+
+
+
+
+
+
+
