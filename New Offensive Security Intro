@@ -1,0 +1,25 @@
+Task 1 
+Which of the following options better represents the process where you simulate a hacker's actions to find vulnerabilities in a system?
+Offensive Security
+Defensive Security
+ANS - Offensive Security
+
+Task 2 
+What is your bank account number in the FakeBank web application?
+ANS - 8881
+
+Task 3 
+Dirb should have found 2 hidden URLs. One of them is http://fakebank.thm/images. What is the other one?
+ANS - http://fakebank.thm/bank-deposit
+
+Task 4 
+If your balance is now positive, a pop-up should appear with some green words in it. Input the green words as the answer to this question (all in uppercase).
+(You may need to hit Refresh if you closed the pop-up already)
+ANS - BANK-HACKED
+
+
+
+
+
+
+
